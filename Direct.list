@@ -5,18 +5,20 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
-
+DOMAIN-SUFFIX,csrbtx.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
 # IP段匹配
-IP-CIDR,219.146.1.66/32,no-resolve
+# IP-CIDR,219.146.1.66/32,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
-IP-CIDR,219.146.1.66/32,no-resolve
-IP-CIDR,219.147.1.66/32,no-resolve
+IP-CIDR,218.85.152.99/32,no-resolve
+IP-CIDR,218.85.152.99/32,no-resolve
+IP-CIDR,218.104.128.106/32,no-resolve
+IP-CIDR,58.22.96.66/32,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
 IP-CIDR,223.5.5.5/32,no-resolve
 IP-CIDR,223.6.6.6/32,no-resolve
